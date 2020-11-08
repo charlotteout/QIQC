@@ -1,2 +1,2 @@
 # QIQC
-Repository of exercises of the course Quantum Information and Quantum Communication offered at Amsterdam University College
+Repository of exercises of the course Quantum Information and Quantum Communication offered at Amsterdam University College. This course was offerd by QuSoft, a Dutch research center for quantum software. These exercises were intended as a gentle introduction to some well known quantum algorithms. My Bachelors Thesis was a collaboration with QuSoft, for which I also wrote code, which can be found in a dedicated repo. 
